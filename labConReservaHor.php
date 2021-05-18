@@ -56,21 +56,20 @@
 
                     // PROD :)
                     
-                    
-                    $servername = "localhost";
-                    $username = "user";
-                    $password = "#Leca123#";
-                    $dbname = "bdprod_labcon";
+                    /*
+                    $servername = ;
+                    $username = ;
+                    $dbname = ;
                     $count = 0;
-                    
+                    /*
                     
 
                     // DESENV
                     /* 
-                    $servername = "localhost";
-                    $username = "user";
-                    $password = "#Leca123#";
-                    $dbname = "bddesenv_labcon";
+                    $servername = ;
+                    $username = ;
+                    $password = ;
+                    $dbname = ;
                     $count = 0;
                     */
 
